@@ -1,4 +1,4 @@
-![logo]([https://github.com/Hmshu0108/Himanshu_Swrp/blob/main/Himanshu%20Github%20banner.png](https://github.com/Hmshu108/Himanshu_SW/blob/main/Himanshu%20Github%20banner.png))
+![logo](https://github.com/Hmshu108/Himanshu_SW/blob/main/Himanshu%20Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Himanshu Swaroop</h1>
 <h3 align="center">A passionate Web developer and Designer from India</h3>
 
